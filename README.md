@@ -1,5 +1,5 @@
 <br/>
-<h1 align="center"><strong>Hi, I'm Shivasubrahmanya K C 👋</strong></h1>
+<h1 align="center"><strong>Yo, I'm Shivasubrahmanya K C 👋</strong></h1>
 
 <p align="center">
   <em>Machine Leaning  | Deep LeaningL | MERN | Automations</em>
@@ -77,8 +77,7 @@ My journey revolves around **Deep Learning, Computer Vision, Neural Networks, ME
 ![](https://github-readme-stats.vercel.app/api?username=shivasubrahmanya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shivasubrahmanya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivasubrahmanya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</p>
+🐛 My GitHub is empty because my code lives in final_final_v3_last.ipynb. 🤡</p>
 
 ---
 
