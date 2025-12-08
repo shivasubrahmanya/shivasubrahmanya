@@ -2,7 +2,7 @@
 <h1 align="center"><strong>Yo, I'm Shivasubrahmanya K C 👋</strong></h1>
 
 <p align="center">
-  <em>Machine Leaning  | Deep LeaningL | MERN | Automations</em>
+  <em>Machine Learning  | Deep LearningL | MERN | Automations</em>
 </p>
 <br/>
 
