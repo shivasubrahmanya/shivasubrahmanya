@@ -77,10 +77,10 @@ My journey revolves around **Deep Learning, Computer Vision, Neural Networks, ME
 ![](https://github-readme-stats.vercel.app/api?username=shivasubrahmanya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shivasubrahmanya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivasubrahmanya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-🐛 My GitHub is empty because my code lives in final_final_v3_last.ipynb. 🤡</p>
+</p>
 
 ---
-
+🐛 My GitHub is empty because my code lives in final_final_v3_last.ipynb. 🤡
 <p align="center">
   
 [![](https://visitcount.itsvg.in/api?id=shivasubrahmanya&icon=0&color=0)](https://visitcount.itsvg.in)
