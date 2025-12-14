@@ -10,7 +10,7 @@
 # 💫 About Me
 
 I am an **AI & Machine Learning undergraduate** passionate about building intelligent systems and automations.  
-My journey revolves around **Deep Learning, Computer Vision, Neural Networks, MERN learning, and workflow automation**.
+My journey revolves around **Deep Learning, Computer Vision, Neural Networks, Machine learning, MERN and workflow automation**.
 
 ### ✨ Quick Intro About Me:
 - 🎓 AIML student exploring cutting-edge ML & DL  
@@ -80,7 +80,7 @@ My journey revolves around **Deep Learning, Computer Vision, Neural Networks, ME
 </p>
 
 ---
-🐛 My GitHub is empty because my code lives in final_final_v3_last.ipynb. 🤡
+🐛 My GitHub is empty because my code lives in final_final_v3_last.ipynb.🤡
 <p align="center">
   
 [![](https://visitcount.itsvg.in/api?id=shivasubrahmanya&icon=0&color=0)](https://visitcount.itsvg.in)
