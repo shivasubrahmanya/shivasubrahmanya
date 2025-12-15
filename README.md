@@ -23,8 +23,6 @@ My interests span **Deep Learning, Computer Vision, Neural Networks, Machine Lea
 
 ---
 
-## 🛠️ Tools and Technologies
-
 <table align="center">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
@@ -62,10 +60,21 @@ My interests span **Deep Learning, Computer Vision, Neural Networks, Machine Lea
     <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" style="filter: invert(1);" /></td>
+    <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="40"/></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40"/></td>
+    <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" width="40" style="filter: invert(1);" /></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
     <td></td>
     <td></td>
   </tr>
 </table>
+
 
 ---
 
@@ -91,5 +100,4 @@ My interests span **Deep Learning, Computer Vision, Neural Networks, Machine Lea
 ---
 
 🐛 My GitHub is empty because my code lives in final_final_v3_last.ipynb.🤡
-
 
