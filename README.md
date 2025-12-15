@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 I am an **AI & Machine Learning undergraduate** passionate about building intelligent systems and scalable automations.  
 My interests span **Deep Learning, Computer Vision, Neural Networks, Machine Learning, MERN, and workflow automation**.
