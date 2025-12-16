@@ -2,7 +2,7 @@
 <h1 align="center"><strong>Hello, I'm Shivasubrahmanya K C 👋</strong></h1>
 
 <p align="center">
-  <em>🤖 Machine Learning | 🧠 Deep Learning | 🌐 MERN | ⚙️ Automations</em>
+  <em>🤖 Machine Learning | 🧠 Deep Learning | 🌐 Full Stack Developments | ⚙️ Automations</em>
 </p>
 
 ---
