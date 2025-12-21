@@ -99,5 +99,5 @@ My interests span **Deep Learning, Computer Vision, Neural Networks, Machine Lea
 
 ---
 
-🐛 My GitHub is empty because my code lives in final_final_v3_last.ipynb.🤡
+### <p>🐛 My GitHub is empty because my code lives in final_final_v3_last.ipynb.🤡</p>
 
