@@ -77,7 +77,6 @@ My interests span **Deep Learning, Computer Vision, Neural Networks, Machine Lea
 
 
 ---
-
 ## 📊 GitHub Activity Graph
 
 <p align="center">
