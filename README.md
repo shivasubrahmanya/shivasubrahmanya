@@ -21,7 +21,6 @@ AI/ML Undergraduate · Deep Learning · Computer Vision · Full Stack · Automat
 ![Profile Views](https://komarev.com/ghpvc/?username=shivasubrahmanya&style=flat-square&color=0d1117&labelColor=161b22)
 
 </div>
-
 ---
 
 ## About
