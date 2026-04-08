@@ -12,7 +12,8 @@
  █████╔╝      ██║      
  ██╔═██╗      ██║      
  ██║  ██╗     ╚██████╗ 
- ╚═╝  ╚═╝      ╚═════╝ 
+ ╚═╝  ╚═╝      ╚═════╝
+
 ```
 
 AI/ML Undergraduate · Deep Learning · Computer Vision · Full Stack · Automation
