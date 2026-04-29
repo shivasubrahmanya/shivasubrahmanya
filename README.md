@@ -15,7 +15,6 @@
  ╚═╝  ╚═╝      ╚═════╝
 
 ```
-
 AI/ML Undergraduate · Deep Learning · Computer Vision · Full Stack · Automation
 
 [![GitHub followers](https://img.shields.io/github/followers/shivasubrahmanya?style=flat-square&color=0d1117&labelColor=161b22&logo=github)](https://github.com/shivasubrahmanya)
