@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+<pre>
   ██████╗  ██╗  ██╗  ██╗  ██╗   ██╗   █████╗    ██████╗  ██╗   ██╗  ██████╗   ██████╗    █████╗   ██╗  ██╗  ███╗   ███╗   █████╗   ███╗   ██╗  ██╗   ██╗   █████╗  
  ██╔════╝  ██║  ██║  ██║  ██║   ██║  ██╔══██╗  ██╔════╝  ██║   ██║  ██╔══██╗  ██╔══██╗  ██╔══██╗  ██║  ██║  ████╗ ████║  ██╔══██╗  ████╗  ██║  ╚██╗ ██╔╝  ██╔══██╗ 
  ███████╗  ███████║  ██║  ██║   ██║  ███████║  ███████╗  ██║   ██║  ██████╔╝  ██████╔╝  ███████║  ███████║  ██╔████╔██║  ███████║  ██╔██╗ ██║   ╚████╔╝   ███████║ 
@@ -13,14 +13,15 @@
  ██╔═██╗      ██║      
  ██║  ██╗     ╚██████╗ 
  ╚═╝  ╚═╝      ╚═════╝
+</pre>
 
-```
 AI/ML Undergraduate · Deep Learning · Computer Vision · Full Stack · Automation
 
 [![GitHub followers](https://img.shields.io/github/followers/shivasubrahmanya?style=flat-square&color=0d1117&labelColor=161b22&logo=github)](https://github.com/shivasubrahmanya)
 ![Profile Views](https://komarev.com/ghpvc/?username=shivasubrahmanya&style=flat-square&color=0d1117&labelColor=161b22)
 
 </div>
+
 ---
 
 ## About
@@ -96,10 +97,10 @@ I build intelligent systems and scalable automations at the intersection of mach
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivasubrahmanya&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivasubrahmanya&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivasubrahmanya&theme=github_dark&layout=compact&hide_border=true" />
 
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=shivasubrahmanya&theme=github-dark-blue&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=shivasubrahmanya&theme=github-dark-blue&hide_border=true" />
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivasubrahmanya&theme=github-compact&hide_border=true&area=true&area_color=0d1117" />
 
@@ -108,7 +109,7 @@ I build intelligent systems and scalable automations at the intersection of mach
 ---
 
 <div align="center">
-```
-// most of the real work lives in final_final_v3_last.ipynb
-```
+
+<i>// most of the real work lives in final_final_v3_last.ipynb</i>
+
 </div>
