@@ -97,8 +97,10 @@ I build intelligent systems and scalable automations at the intersection of mach
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivasubrahmanyakc&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivasubrahmanyakc&theme=github_dark&layout=compact&hide_border=true" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivasubrahmanyakc&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivasubrahmanyakc&theme=github_dark" />
+
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivasubrahmanyakc&theme=github_dark&utcOffset=5.5" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=shivasubrahmanyakc&theme=github-dark-blue&hide_border=true" />
 
