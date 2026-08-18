@@ -110,6 +110,13 @@ I build intelligent systems and scalable automations at the intersection of mach
 </div>
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=shivasubrahmanyakc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="shivasubrahmanyakc's Trophies" />
+  </a>
+</p>
 
 <div align="center">
 
